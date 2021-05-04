@@ -1,7 +1,7 @@
 // This class keeps track of a grocery list of items
 
 public class GroceryList {
-    public static final int MAX_ITEMS = 10;
+    public static final int MAX_ITEMS = 15;
 
     private GroceryItemOrder[] items;
     private int numItems;
