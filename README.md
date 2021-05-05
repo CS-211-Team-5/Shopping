@@ -1,6 +1,5 @@
 # CS 211 PROJECY
-HAWA IS PRACTICING USING GIT, ok, within hawa branch
-
+this is the new readme i made here in thw changeread brnach
 # TEAMMATES
 HAWA, MANKIRAT, CAROLINE, CHRISTELLE, ALEX
 
