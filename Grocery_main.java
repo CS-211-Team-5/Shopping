@@ -9,6 +9,11 @@ public class Grocery_main {
 		
 		
 		GroceryItemOrder item1 = new GroceryItemOrder("rice 1", 5, 9.95 );
+		
+GroceryItemOrder item11 = new GroceryItemOrder("ben 1", 5, 9.95 );
+
+	GroceryItemOrder item21 = new GroceryItemOrder("taco 1", 5, 9.95 );
+	
 		GroceryItemOrder item2 = new GroceryItemOrder("salad", 1, 3.00 );
 		GroceryItemOrder item3 = new GroceryItemOrder("chips",3, 3.5 );
 		GroceryItemOrder item4 = new GroceryItemOrder("cookies",1, 2.00 );
